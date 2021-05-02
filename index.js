@@ -6,3 +6,7 @@ function add () {
 function del () {
     console.log('del')
 }
+
+function devA() {
+    console.log('dev_A code chức năng tạo branch')
+}
